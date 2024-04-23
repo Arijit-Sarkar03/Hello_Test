@@ -1,2 +1,2 @@
 # Hello_Test
-setting up git
+This is my first git test
