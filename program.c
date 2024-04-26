@@ -7,7 +7,7 @@ int main(){
     scanf("%d",&n);
 
     for(int i=0;i<n;i++){
-        printf("Hello_Git");
+        printf("Hello_Git_changes");
     }
     
     return 0;
